@@ -1,1 +1,5 @@
-# GymStart
+Descripción del sistema 
+El sistema consiste en una aplicación web con enfoque movil orientada a usuarios principiantes en el gimnasio que buscan una forma sencilla de comenzar a entrenar y registrar su progreso. Actualmente, muchas personas que inician en el gimnasio no saben qué ejercicios realizar, cómo organizar una rutina o cómo llevar un registro de su entrenamiento.
+El sistema propone una solución mediante una aplicación que asigna rutinas predefinidas a los usuarios y les permite registrar la información de cada entrenamiento realizado , con esa información se generan recomendaciones a los usuarios dado su progreso , haciendo que también progresen de manera inteligente y asistida . De esta forma, el usuario puede llevar un control de su progreso en ejercicios, peso utilizado y repeticiones realizadas.
+Además, el sistema permite consultar rutinas, visualizar ejercicios y registrar los datos de cada entrenamiento, facilitando el seguimiento del progreso del usuario.
+El sistema está dirigido principalmente a usuarios principiantes en el gimnasio, quienes utilizarán la aplicación para registrar sus entrenamientos y consultar las rutinas asignadas.
